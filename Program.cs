@@ -2,7 +2,7 @@
 using System;
 class init
 {
-    static void Main()
+    static void main()
     {
         // Console.ForegroundColor = ConsoleColor.Blue;
         string name = "moawed mohamed";

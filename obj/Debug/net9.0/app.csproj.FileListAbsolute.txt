@@ -7,7 +7,6 @@ C:\Users\Techno Shield\Desktop\app\obj\Debug\net9.0\app.GeneratedMSBuildEditorCo
 C:\Users\Techno Shield\Desktop\app\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
 C:\Users\Techno Shield\Desktop\app\obj\Debug\net9.0\app.AssemblyInfo.cs
 C:\Users\Techno Shield\Desktop\app\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
-C:\Users\Techno Shield\Desktop\app\obj\Debug\net9.0\app.sourcelink.json
 C:\Users\Techno Shield\Desktop\app\obj\Debug\net9.0\app.dll
 C:\Users\Techno Shield\Desktop\app\obj\Debug\net9.0\refint\app.dll
 C:\Users\Techno Shield\Desktop\app\obj\Debug\net9.0\app.pdb
